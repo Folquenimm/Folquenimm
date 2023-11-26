@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, seja bem vindo ao meu perfil 💟
 
-<!--
-**Folquenimm/Folquenimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Viviane Folquenimm
 
-Here are some ideas to get you started:
+Estou aprimorando meus estudos com a [Alura](https://cursos.alura.com.br/corp/adaptacao-pensamento-computacional-1-serie-professores-93680-p609838)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Utilizo este espaco para comoartilhar meus projetos.
+
+### Contato 📫
+viviane.folquenimm@escola.pr.gov.br
+
+@folquenimm_vivi
+
+![.](https://tenor.com/pt-BR/view/cute-aww-gif-22471511)
